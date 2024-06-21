@@ -16,7 +16,7 @@
     "bcryptjs": "^2.4.3",
     "react-query": "^3.39.2",
     "react-hook-form": "^7.29.0",
-    "redux-toolkit": "^1.9.1",
+    "@reduxjs/toolkit": "^1.9.1",
     "tailwindcss": "^3.0.23"
   },
   "devDependencies": {
